@@ -6,11 +6,7 @@ As of November 2025, we are cleaning up our repository and rewriting the code. C
 
 - Using a an optional list of relevant ArchivesSpace resources to parse finding aid "front matter" to create a dataset for the KWIC report.
 
-TODOs:
-
-- [ ] Redevelop KWIC report, or two: one for controlled vocabulary and one for free text fields.
-- [ ] Optionally redevelop visualizations. Past visualizaitons are included in the repository for reference.
-- [ ] Add functionality to parse entire resources.
+Additional TODOs should be added as a repo Issue.
 
 ## Usage
 
