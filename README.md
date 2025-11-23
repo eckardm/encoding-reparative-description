@@ -46,7 +46,7 @@ If the user does not provide a text file with a list of Resource IDs, the tool w
 
 ### Parse Resources
 
-Run the `parse_resources.ipynb` Python notebook first. It takes the inputs above, along with a configuration file described in the notebook, and uses them to parse ArchivesSpace via the API. It produces data (a CSV file) used in later operations, and puts them in a "data" folder--see `results-nativeAmerican.csv` and `results.phillipines.csv` as examples.
+Run the `parse_resources.ipynb` Python notebook first. It takes the inputs above, along with a configuration file described in the notebook, and uses them to parse ArchivesSpace via the API. It produces data (a CSV file) used in later operations, and puts them in a "data" folder--see `results-nativeAmerican.csv` and `results-phillipines.csv` as examples.
 
 ### Create a Terms in Context Report or Visualizations (or both)
 
