@@ -50,3 +50,6 @@ See "terms-nativeAmerican.txt," "terms-phillipines.txt," and "terms-MENA.txt" as
 
 **Output:** A "matched_results" CSV file, also in the "data" folder, used to create a KWIC report.
 
+### 3. KWIC Report
+
+Forthcoming...
